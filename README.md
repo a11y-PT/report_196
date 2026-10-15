@@ -1,6 +1,6 @@
 ---
 website: "Aldeia de Santa Isabel"          # Entre as aspas escreve o nome do website
-date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+date: "29/09/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://asi.scml.pt"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://asi.scml.pt/acessibilidade/" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 a11y_statement_date: "11/05/2026"  # Entre as aspas escreve a data da Declaração de Acessibilidade
